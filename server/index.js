@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
-const helemt = require("helmet");
+const helmet = require("helmet");
 const morgan = require("morgan");
 
 dotenv.config();
@@ -14,6 +14,15 @@ mongoose.connect(
     console.log("Connected to Mongo!!!");
   }
 );
+
+//MiddleWares
+app.use(express.json());
+app.use(helmet());
+app.use(morgan("common"));
+
+app.get("/", (req, res) => {
+  res.send("Welcome to HomePage");
+});
 
 app.listen(8800, () => {
   console.log("Backend Server is Ready!!!");
