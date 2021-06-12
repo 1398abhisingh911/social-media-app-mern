@@ -8,14 +8,15 @@ const userRoute = require("./routes/users");
 const postRoute = require("./routes/posts");
 const authRoute = require("./routes/auth");
 dotenv.config();
-
-mongoose.connect(
-  process.env.MONGO_URL,
-  { useNewUrlParser: true, useUnifiedTopology: true },
-  () => {
-    console.log("Connected to Mongo!!!");
-  }
-);
+mongoose
+  .connect(process.env.MONGO_URL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: true
+  })
+  .then(console.log("Connected To MONGO DB"))
+  .catch(err => console.log(err));
 
 //MiddleWares
 app.use(express.json());
