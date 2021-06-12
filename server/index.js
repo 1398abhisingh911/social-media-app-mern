@@ -4,7 +4,9 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const helmet = require("helmet");
 const morgan = require("morgan");
-
+const userRoute = require("./routes/users");
+const postRoute = require("./routes/posts");
+const authRoute = require("./routes/auth");
 dotenv.config();
 
 mongoose.connect(
@@ -20,9 +22,9 @@ app.use(express.json());
 app.use(helmet());
 app.use(morgan("common"));
 
-app.get("/", (req, res) => {
-  res.send("Welcome to HomePage");
-});
+app.use("/users", userRoute);
+app.use("/posts", postRoute);
+app.use("/auth", authRoute);
 
 app.listen(8800, () => {
   console.log("Backend Server is Ready!!!");
