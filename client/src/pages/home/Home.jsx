@@ -2,7 +2,6 @@ import React from "react";
 import "./home.css";
 import Topbar from "../../components/topbar/Topbar";
 import Sidebar from "../../components/sidebar/Sidebar";
-import Leftbar from "../../components/leftbar/Leftbar";
 import Rightbar from "../../components/rightbar/Rightbar";
 import Feed from "../../components/feed/Feed";
 
