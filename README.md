@@ -34,8 +34,7 @@ Project is created with:
          <img src="/Images/5.png" width="350">
 	<br>
 	 <img src="/Images/6.png" width="350">
-	<br>
-	
+<br/>
 	<img src="/Images/7.png" width="350">
 	<br>
         <img src="/Images/8.png" width="350">
