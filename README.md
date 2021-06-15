@@ -22,7 +22,7 @@ Project is created with:
 <p>
 	<h2>Register , Validation and Login/h2>
 		<br>
-        <img src="/Images/1.png" width="350" >
+        <img  src="/Images/1.png" width="100%" >
 		<br>
         <img src="/Images/2.png" width="350" >
 		<br>
