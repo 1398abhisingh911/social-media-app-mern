@@ -70,7 +70,6 @@ export default function Rightbar({ user }) {
           <button className="rightbarFollowButton" onClick={handleClick}>
             {followed ? "Unfollow" : "Follow"}
             {followed ? <Remove /> : <Add />}
-            Follow
           </button>
         )}
         <h4 className="rightbarTitle">User Information</h4>
