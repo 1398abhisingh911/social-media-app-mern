@@ -24,31 +24,31 @@ Project is created with:
 		<br>
         <img  src="/Images/1.png" width="100%" >
 		<br>
-        <img src="/Images/2.png" width="350" >
+        <img src="/Images/2.png" width=100%" >
 		<br>
-        <img src="/Images/3.png" width="350">
+        <img src="/Images/3.png" width="100%">
 	<br>
 	<h2>Home Page , Creating Post and Profile page</h2>
-         <img src="/Images/4.png" width="350">
+         <img src="/Images/4.png" width="100%">
 	<br>
-         <img src="/Images/5.png" width="350">
+         <img src="/Images/5.png" width="100%">
 	<br>
-	 <img src="/Images/6.png" width="350">
+	 <img src="/Images/6.png" width="100%">
 	<br>
        <h2>Post by another user and fetching in timeline/h2>
 		<br>
-        <img src="/Images/7.png" width="350" >
+        <img src="/Images/7.png" width="100%" >
 		<br>
-        <img src="/Images/8.png" width="350" >
+        <img src="/Images/8.png" width="100%" >
 		<br>
-        <img src="/Images/9.png" width="350">
+        <img src="/Images/9.png" width="100%">
 	<br>
 	<h2>Retrieving Profile Pics,Cover pics and user info</h2>
-         <img src="/Images/10.png" width="350">
+         <img src="/Images/10.png" width="100%">
 	<br>
-         <img src="/Images/11.png" width="350">
+         <img src="/Images/11.png" width="100%">
 	<br>
-	 <img src="/Images/12.png" width="350">
+	 <img src="/Images/12.png" width="100%">
 	<br>
        
 	
