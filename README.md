@@ -22,7 +22,9 @@ Project is created with:
 <p align="center">
 	<h2>Register , Validation and Login/h2>
         <img src="/Images/1.png" width="350" >
+		<br>
         <img src="/Images/2.png" width="350" >
+		<br>
         <img src="/Images/3.png" width="350">
 	<br>
 	<h2>Home Page , Creating Post and Profile page</h2>
@@ -32,7 +34,6 @@ Project is created with:
 	<br>
 	 <img src="/Images/6.png" width="350">
 	<br>
-	<h2>Login and Writing Blog</h2>
        
 	<h2>Post by another user and fetching in timeline</h2>
 	<img src="/Images/7.png" width="350">
