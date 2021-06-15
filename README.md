@@ -19,8 +19,9 @@ Project is created with:
 
 <br>
 <h2>Screenshots</h2>
-<p align="center">
+<p>
 	<h2>Register , Validation and Login/h2>
+		<br>
         <img src="/Images/1.png" width="350" >
 		<br>
         <img src="/Images/2.png" width="350" >
