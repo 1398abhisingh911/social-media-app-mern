@@ -52,7 +52,7 @@ Project is created with:
 	<br>
        
 	<h2>Chat Functionality</h2>
-         <img src="/Images/13.png" width="100%">
+         <img src="/Images/Chat.png" width="100%">
 	<br>
 	
 </p>
