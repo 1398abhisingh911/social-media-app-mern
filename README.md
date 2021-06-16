@@ -43,15 +43,13 @@ Project is created with:
 		<br>
         <img src="/Images/9.png" width="100%">
 	<br>
-	<h2>Retrieving Profile Pics,Cover pics and user info</h2>
+	<h2>Retrieving Profile Pics,Cover pics,Chat functionality and user info</h2>
          <img src="/Images/10.png" width="100%">
 	<br>
          <img src="/Images/11.png" width="100%">
 	<br>
 	 <img src="/Images/12.png" width="100%">
 	<br>
-       
-	<h2>Chat Functionality</h2>
          <img src="/Images/Chat.png" width="100%">
 	<br>
 	
