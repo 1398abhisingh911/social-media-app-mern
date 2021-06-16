@@ -20,7 +20,7 @@ Project is created with:
 <br>
 <h2>Screenshots</h2>
 <p>
-	<h2>Register , Validation and Login/h2>
+	<h2>Register , Validation and Login</h2>
 		<br>
         <img  src="/Images/1.png" width="100%" >
 		<br>
@@ -35,7 +35,7 @@ Project is created with:
 	<br>
 	 <img src="/Images/6.png" width="100%">
 	<br>
-       <h2>Post by another user and fetching in timeline/h2>
+       <h2>Post by another user and fetching in timeline</h2>
 		<br>
         <img src="/Images/7.png" width="100%" >
 		<br>
@@ -51,7 +51,9 @@ Project is created with:
 	 <img src="/Images/12.png" width="100%">
 	<br>
        
-	
+	<h2>Chat Functionality</h2>
+         <img src="/Images/13.png" width="100%">
+	<br>
 	
 </p>
 
